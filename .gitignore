@@ -3,7 +3,7 @@
 #
 .vagrant
 .vscode
-
+.DS_Store
 #
 # Build Files
 #
